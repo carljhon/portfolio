@@ -1,0 +1,52 @@
+body{
+    overflow-x: hidden;
+    background-image: url(personal/bg1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+.btnMenu {
+    cursor: pointer;
+}
+
+.edu {
+    margin: 0 auto 0 auto; 
+    color: white;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    padding: 1%;
+}
+
+.project {
+    margin: 0 auto 0 auto; 
+    color: white;
+    margin-bottom: 10%;
+    padding: 1%;
+}
+#carouselExampleControls {
+    cursor: pointer;
+}
+
+.sumary {
+    margin: 5% auto 0 auto; 
+    color: white;
+    border: 1px solid white;
+    backdrop-filter: blur(50px);
+}
+
+.elem {
+    border: 1px solid white;
+    margin: 1%;
+    backdrop-filter: blur(50px);
+}
+.hs {
+    border: 1px solid white;
+    margin: 1%;
+    backdrop-filter: blur(50px);
+}
+.college{
+    border: 1px solid white;
+    margin: 1%;
+    backdrop-filter: blur(50px);
+}
