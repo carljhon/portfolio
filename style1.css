@@ -50,3 +50,10 @@ body{
     margin: 1%;
     backdrop-filter: blur(50px);
 }
+
+.personal {
+    margin-top: auto; 
+    margin-bottom: auto; 
+    color: white;
+    margin-left: 1rem;
+}
